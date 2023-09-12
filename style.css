@@ -1,0 +1,15 @@
+.container{
+    max-width: 80%;
+    background-color: rgb(98, 98, 197);
+    padding: 36px;
+    margin: 23px;
+}
+
+.container h1, p{
+    text-align: center;
+}
+
+input, textarea{
+    display: block;
+    width: 80%;
+}
