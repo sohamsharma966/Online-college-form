@@ -1,5 +1,5 @@
 # PHP Registration Form.
-**Follow the steps and learn php**
+**Follow the steps to learn php.**
 
 ## What is PHP (personal home page)
 **it is general purpose scripting language which come inhand in web development**
@@ -53,11 +53,12 @@ if you write php syntax in index.php then php will first execute and then conver
 4. after creating columns in table > go to insert tab > which will allow to input data > input the data and press done. (it will provide you predefine command of sql, you will need it ahead in tutorial to insert data into the code. meantioned below.)
 
 **Like mine is**
+
 *INSERT INTO `trip` (`sr no.`, `name`, `age`, `email`, `information`, `dt`) VALUES ('1', 'test name', '18', 'test', 'this is test', '2023-09-14 16:50:23.000000');*
 
 
 ## Create php file on backend.
-**Note = xamp will more priority to the index.php file than index.html**
+**Note = xamp will give more priority to the index.php file than index.html**
 
 1. RECOMMENDED = create file of index.HTML & style.CSS in php-tut_folder and this folder "C:\xampp\htdocs"> write code of frontend in it without using php.
 
