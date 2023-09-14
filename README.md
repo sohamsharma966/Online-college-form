@@ -1,4 +1,4 @@
-# PHP Registration Form.
+# College Form project in php.
 **Follow the steps to learn php.**
 
 ## What is PHP (personal home page)
@@ -32,14 +32,16 @@
 2. turn on xamp (apache and mysql) > go to localhost.
 on website phpmyadmin= helps you manage database.
 
-3. go to root of xamp_folder > create new file index.php in php_tutorials.
+3. go to root of xamp_folder > create new file index.php in php-tut_folder.
 
 4. now go to localhost/ to request > it will give response index.php page.
 if you write php syntax in index.php then php will first execute and then convert into html and response.
 
 **we are using php here to execute on server as backend language**
 
-5. when you go to page source of respond page it will not show php commands
+5. when you go to page source of respond page it will not show php commands.
+
+**6. Go to Tutorial_folder in this project to learn the basics and come to continue the project.**
 
 
 ## Get ready Mysql
