@@ -41,7 +41,7 @@ if you write php syntax in index.php then php will first execute and then conver
 
 5. when you go to page source of respond page it will not show php commands.
 
-**6. Go to Tutorial_folder in this project to learn the basics and come to continue the project.**
+6. **Go to Tutorial_folder in this project to learn the basics and come to continue the project.**
 
 
 ## Get ready Mysql
