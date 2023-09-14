@@ -13,3 +13,7 @@ input, textarea{
     display: block;
     width: 80%;
 }
+
+.submit{
+    color: red;
+}
