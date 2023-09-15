@@ -1,5 +1,6 @@
 # College Form project in php.
-**Follow the steps to learn php.**
+**Follow the steps to learn php from zero and make projects from it.**
+
 
 ## What is PHP (personal home page)
 **it is general purpose scripting language which come inhand in web development**
